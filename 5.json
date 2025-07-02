@@ -158,7 +158,7 @@
       "uploadDate": "2025-04-21T23:00:00.000Z",
       "fileSize": "100 MB",
       "uris": [
-        "https://utweb.rainberrytv.com/gui/share.html#link=magnet%3A%3Fxt%3Durn%3Abtih%3A2c31444c4c976a06d2850044fd698ac5f7d49200%26dn%3DBalatro.rar%26tr%3Dudp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce"
+        "magnet%3A%3Fxt%3Durn%3Abtih%3A2c31444c4c976a06d2850044fd698ac5f7d49200%26dn%3DBalatro.rar%26tr%3Dudp%253a%252f%252ftracker.openbittorrent.com%253a80%252fannounce%26tr%3Dudp%253a%252f%252ftracker.opentrackr.org%253a1337%252fannounce"
       ]
     }
   ]
